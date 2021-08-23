@@ -11,7 +11,7 @@ pip install ("any module that you might be missing")
 
 ## Usage
 
-you can open the proj_comp folder in a text editor and hit run or  navigate to the proj_comp file on your machine and type into console the below
+you can open the password_manager in a text editor and hit run or navigate to the file on your machine and type into console the below
 
 'python password_manager.py' 
 
