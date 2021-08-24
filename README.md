@@ -1,5 +1,5 @@
 # Password_Vault
-A secure password manager.
+A secure password manager , that uses a salted hash of a users credientials to facillitate use by multiple users 
 
 ## Installation
 
